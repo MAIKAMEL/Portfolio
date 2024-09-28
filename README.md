@@ -82,10 +82,8 @@
 **Graduation Project**  
 **Aug 2023 - Sep 2024**  
 **Key Responsibilities:**
-- Achieved <span style="color:#FF6347"><b>3rd place</b></span> in the highly competitive Valeo Mentorship Program, standing out among over <span style="color:#1E90FF"><b>500 teams</b></span>.  
-- Contributed to the development of an <span style="color:#32CD32"><b>Advanced Driver Monitoring System</b></span>, which featured cutting-edge <span style="color:#8B008B"><b>Reckless Driving Detection</b></span> and <span style="color:#FFD700"><b>Facial Recognition</b></span> technologies, enhancing driver safety and vehicle security.
-
-
+- Achieved **3rd place** 🏆 in the highly competitive Valeo Mentorship Program, standing out among over **500 teams**.
+- Contributed to the development of an **Advanced Driver Monitoring System**, which featured cutting-edge **Reckless Driving Detection** and **Facial Recognition** technologies, enhancing driver safety and vehicle security.
 
 ## 🖥️ Machine Learning Intern  
 **SYNC Intern's**  
