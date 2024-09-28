@@ -6,10 +6,6 @@
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=mai-kamel&label=Profile%20views&color=0e75b6&style=flat" alt="mai-kamel" /> 
-  </a>
-  <a href="https://wa.me/+201557504902" target="_blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp - Abdullah Khaled" height="40" width="40" />
-  </a>
 </p>
 
 ---
@@ -27,6 +23,10 @@
 <p align="left">
   <a href="https://linkedin.com/in/mai-kamel-43547a277" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Mai Kamel" height="40" width="40" />
+  </a>
+    </a>
+  <a href="https://wa.me/+201557504902" target="_blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp - Abdullah Khaled" height="40" width="40" />
   </a>
 </p>
 
