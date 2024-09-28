@@ -70,7 +70,14 @@
 - Developed proficiency in Machine Learning and Data Science using Python.
 - Acquired certifications in Azure AI Fundamentals and Azure AI Engineer Associate.
   
-[![Azure AI](https://img.shields.io/badge/Azure_AI-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/en-us/services/cognitive-services) [![Statistics](https://img.shields.io/badge/Statistics-FF6347?style=for-the-badge)](https://en.wikipedia.org/wiki/Statistics) [![Machine Learning](https://img.shields.io/badge/Machine_Learning-FFD700?style=for-the-badge)](https://en.wikipedia.org/wiki/Machine_learning) [![Generative Adversarial Networks (GANs)](https://img.shields.io/badge/GANs-8B008B?style=for-the-badge)](https://en.wikipedia.org/wiki/Generative_adversarial_network) [![Natural Language Processing](https://img.shields.io/badge/NLP-32CD32?style=for-the-badge)](https://en.wikipedia.org/wiki/Natural_language_processing) [![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FFD700?style=for-the-badge)](https://en.wikipedia.org/wiki/Prompt_engineering) [![Data Science](https://img.shields.io/badge/Data_Science-FF4500?style=for-the-badge)](https://en.wikipedia.org/wiki/Data_science) [![MLOps](https://img.shields.io/badge/MLOps-0055A4?style=for-the-badge)](https://en.wikipedia.org/wiki/MLOps) [![MLFlow](https://img.shields.io/badge/MLFlow-0197F6?style=for-the-badge)](https://mlflow.org) [![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD700?style=for-the-badge)](https://huggingface.co)
+[![Statistics](https://img.shields.io/badge/Statistics-FF6347?style=for-the-badge)](https://en.wikipedia.org/wiki/Statistics) 
+[![Data Science](https://img.shields.io/badge/Data_Science-FF4500?style=for-the-badge)](https://en.wikipedia.org/wiki/Data_science) 
+[![Machine Learning](https://img.shields.io/badge/Machine_Learning-FFD700?style=for-the-badge)](https://en.wikipedia.org/wiki/Machine_learning) 
+[![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF4500?style=for-the-badge)](https://en.wikipedia.org/wiki/Deep_learning) 
+[![Computer Vision](https://img.shields.io/badge/Computer_Vision-8B008B?style=for-the-badge)](https://en.wikipedia.org/wiki/Computer_vision)
+[![Generative Adversarial Networks (GANs)](https://img.shields.io/badge/GANs-8B008B?style=for-the-badge)](https://en.wikipedia.org/wiki/Generative_adversarial_network) 
+[![Natural Language Processing](https://img.shields.io/badge/NLP-32CD32?style=for-the-badge)](https://en.wikipedia.org/wiki/Natural_language_processing) 
+[![Azure AI](https://img.shields.io/badge/Azure_AI-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/en-us/services/cognitive-services)
 
 ## 🖥️ Machine Learning Intern  
 **SYNC Intern's**  
