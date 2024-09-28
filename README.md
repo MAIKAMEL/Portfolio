@@ -65,21 +65,12 @@
 **Key Responsibilities:**
 - Gained hands-on experience in Machine Learning, MLOps tools like MLFlow, and built Generative Adversarial Networks (GANs).
 - Worked on Natural Language Processing and Prompt Engineering.
-
-## 🛠️ Embedded Systems Intern  
-**ITI**  
-**Aug 2023 - Sep 2023**  
-- Gained proficiency in ARM architecture, real-time concepts, communication protocols, and bootloader development.
+- [![Statistics](https://img.shields.io/badge/Statistics-FF6347?style=for-the-badge)](https://en.wikipedia.org/wiki/Statistics) [![Machine Learning](https://img.shields.io/badge/Machine_Learning-FFD700?style=for-the-badge)](https://en.wikipedia.org/wiki/Machine_learning) [![Generative Adversarial Networks (GANs)](https://img.shields.io/badge/GANs-8B008B?style=for-the-badge)](https://en.wikipedia.org/wiki/Generative_adversarial_network) [![Natural Language Processing](https://img.shields.io/badge/NLP-32CD32?style=for-the-badge)](https://en.wikipedia.org/wiki/Natural_language_processing) [![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FFD700?style=for-the-badge)](https://en.wikipedia.org/wiki/Prompt_engineering) [![Data Science](https://img.shields.io/badge/Data_Science-FF4500?style=for-the-badge)](https://en.wikipedia.org/wiki/Data_science) [![MLOps](https://img.shields.io/badge/MLOps-0055A4?style=for-the-badge)](https://en.wikipedia.org/wiki/MLOps) [![MLFlow](https://img.shields.io/badge/MLFlow-0197F6?style=for-the-badge)](https://mlflow.org) [![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD700?style=for-the-badge)](https://huggingface.co)
 
 ## 🖥️ Machine Learning Intern  
 **SYNC Intern's**  
 **Jul 2023 - Aug 2023**  
 - Focused on machine learning and deep learning techniques.
-
-## 🔌 Embedded Systems Trainee  
-**National Telecommunication Institute (NTI)**  
-**Jul 2021 - May 2022**  
-- Proficient in C programming and AVR microcontroller interfacing.  
 
 ---
 
