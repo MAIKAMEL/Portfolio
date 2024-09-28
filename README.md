@@ -36,7 +36,6 @@
 
 
 # 🏆 Achievements
-
 ---
 
 - **1st Place** in the **Made in Egypt (MIE)** competition, competing against **300 teams**.
