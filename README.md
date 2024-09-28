@@ -24,7 +24,6 @@
   <a href="https://linkedin.com/in/mai-kamel-43547a277" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Mai Kamel" height="40" width="40" />
   </a>
-    </a>
   <a href="https://wa.me/+201157160264" target="_blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp - Abdullah Khaled" height="40" width="40" />
   </a>
@@ -34,22 +33,16 @@
 
 ---
 
-
-
 # 🏆 Achievements
-
 - **1st Place** in the **Made in Egypt (MIE)** competition, competing against **300 teams**.
 - **3rd Place** in the **Valeo Mentorship Program**, distinguished among **500 teams**.
 - **8th Place** at the **University's Engineering Exhibition** for an innovative graduation project focused on advanced driver monitoring systems.
+
 ---
-
-
 
 ### 🎓 Education
 
-
 #### 🏫 **Bachelor's Degree in Computer Engineering**
-
 - ![University Badge](https://img.shields.io/badge/Helwan_University-0055A4?style=flat&logo=university&logoColor=white)
 - ![GPA Badge](https://img.shields.io/badge/Cumulative_Grade-Very_Good-brightgreen)
 - ![Duration Badge](https://img.shields.io/badge/Duration-October%202019%20–%20July%202023-yellow)
@@ -137,26 +130,4 @@
 
 ## 🚗 Enhanced Drive Guard (EDG)  
 **Description:**  
-Developed an advanced driver monitoring system using deep learning models (LSTM for reckless driving, transfer learning for drowsiness detection, and facial recognition with Dlib) to improve road safety.  
-**Technologies:**  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-
-## 🔢 Employee Attrition Prediction  
-**Description:**  
-Performed EDA and used machine learning models to predict employee turnover, improving retention strategies.  
-**Technologies:**  
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-
-## 🔬 Sign Language Classification  
-**Description:**  
-Built a deep learning model using Python to classify sign language gestures, improving accessibility for the deaf community.  
-**Technologies:**  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-
----
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mai-kamel&show_icons=true&locale=en&layout=compact" alt="mai-kamel" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mai-kamel&show_icons=true&locale=en" alt="mai-kamel" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mai-kamel&" alt="mai-kamel" /></p>
+...
