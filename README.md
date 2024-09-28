@@ -62,6 +62,7 @@
 ## 🖥️ AI and Machine Learning Engineer Intern  
 **Digital Egypt Pioneers Initiative (DEPI)**  *Hybird*  
 **Jun 2024 - Sep 2024**  (4 monthes)
+
 **Key Responsibilities:**
 - Gained hands-on experience in Machine Learning, MLOps tools like MLFlow, Hugging Face, and Azure AI services.
 - Built and experimented with Generative Adversarial Networks (GANs).
