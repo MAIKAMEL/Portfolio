@@ -70,17 +70,17 @@
 - Developed proficiency in Machine Learning and Data Science using Python.
 - Acquired certifications in Azure AI Fundamentals and Azure AI Engineer Associate.
   
-[![Statistics](https://img.shields.io/badge/Statistics-FF6347?style=for-the-badge)](https://en.wikipedia.org/wiki/Statistics) 
+[![Statistical Analysis](https://img.shields.io/badge/Statistics-FF6347?style=for-the-badge)](https://en.wikipedia.org/wiki/Statistics) 
 [![Data Science](https://img.shields.io/badge/Data_Science-FF4500?style=for-the-badge)](https://en.wikipedia.org/wiki/Data_science) 
-[![Databases](https://img.shields.io/badge/Databases-FF4500?style=for-the-badge)](https://www.databases.com) 
-[![Data Visualization](https://img.shields.io/badge/Data_Visualization-1E90FF?style=for-the-badge)](https://en.wikipedia.org/wiki/Data_visualization)
-[![Data Cleaning](https://img.shields.io/badge/Data_Cleaning-FFD700?style=for-the-badge)](https://en.wikipedia.org/wiki/Data_cleansing)
-[![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-8A2BE2?style=for-the-badge)](https://en.wikipedia.org/wiki/Feature_engineering)
-[![Machine Learning](https://img.shields.io/badge/Machine_Learning-FFD700?style=for-the-badge)](https://en.wikipedia.org/wiki/Machine_learning) 
-[![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF4500?style=for-the-badge)](https://en.wikipedia.org/wiki/Deep_learning) 
-[![Computer Vision](https://img.shields.io/badge/Computer_Vision-8B008B?style=for-the-badge)](https://en.wikipedia.org/wiki/Computer_vision)
-[![Generative Adversarial Networks (GANs)](https://img.shields.io/badge/GANs-8B008B?style=for-the-badge)](https://en.wikipedia.org/wiki/Generative_adversarial_network) 
-[![Natural Language Processing](https://img.shields.io/badge/NLP-32CD32?style=for-the-badge)](https://en.wikipedia.org/wiki/Natural_language_processing) 
+[![Data Analysis](https://img.shields.io/badge/Data_Analysis-32CD32?style=for-the-badge)](https://en.wikipedia.org/wiki/Data_analysis) 
+[![Data Visualization](https://img.shields.io/badge/Data_Visualization-1E90FF?style=for-the-badge)](https://en.wikipedia.org/wiki/Data_visualization) 
+[![Data Cleaning](https://img.shields.io/badge/Data_Cleaning-FFD700?style=for-the-badge)](https://en.wikipedia.org/wiki/Data_cleansing) 
+[![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-8A2BE2?style=for-the-badge)](https://en.wikipedia.org/wiki/Feature_engineering) 
+[![Machine Learning](https://img.shields.io/badge/Machine_Learning-008000?style=for-the-badge)](https://en.wikipedia.org/wiki/Machine_learning) 
+[![Deep Learning](https://img.shields.io/badge/Deep_Learning-DC143C?style=for-the-badge)](https://en.wikipedia.org/wiki/Deep_learning) 
+[![Computer Vision](https://img.shields.io/badge/Computer_Vision-483D8B?style=for-the-badge)](https://en.wikipedia.org/wiki/Computer_vision) 
+[![Generative Adversarial Networks (GANs)](https://img.shields.io/badge/GANs-800080?style=for-the-badge)](https://en.wikipedia.org/wiki/Generative_adversarial_network) 
+[![Natural Language Processing](https://img.shields.io/badge/NLP-4682B4?style=for-the-badge)](https://en.wikipedia.org/wiki/Natural_language_processing) 
 [![Azure AI](https://img.shields.io/badge/Azure_AI-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/en-us/services/cognitive-services)
 
 ## 🖥️ Machine Learning Intern  
