@@ -52,13 +52,6 @@
 
 ---
 
-## 🧑‍💻 AI Developer  
-**Valeo Mentorship Program**  
-**Aug 2023 - Oct 2024**  
-**Key Responsibilities:**
-- Developed an Advanced Driver Monitoring System integrating LSTM for Reckless Driving Detection and Dlib for Facial Recognition.
-- Achieved 3rd place in the Valeo Mentorship Program competition out of 500 teams.
-
 ## 🖥️ Digital Egypt Pioneers Initiative Intern  
 **(DEPI)** . *Hybird*  
 **Jun 2024 - Sep 2024**  (4 months)
@@ -83,6 +76,14 @@
 [![Generative Adversarial Networks (GANs)](https://img.shields.io/badge/GANs-800080?style=for-the-badge)](https://en.wikipedia.org/wiki/Generative_adversarial_network) 
 [![Natural Language Processing](https://img.shields.io/badge/NLP-4682B4?style=for-the-badge)](https://en.wikipedia.org/wiki/Natural_language_processing) 
 [![Azure AI](https://img.shields.io/badge/Azure_AI-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/en-us/services/cognitive-services)
+
+## 🧑‍💻 AI Developer  
+**Valeo Mentorship Program**  
+**Aug 2023 - Oct 2024**  
+**Key Responsibilities:**
+- Developed an Advanced Driver Monitoring System integrating LSTM for Reckless Driving Detection and Dlib for Facial Recognition.
+- Achieved 3rd place in the Valeo Mentorship Program competition out of 500 teams.
+
 
 ## 🖥️ Machine Learning Intern  
 **SYNC Intern's**  
