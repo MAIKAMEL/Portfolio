@@ -6,6 +6,10 @@
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=mai-kamel&label=Profile%20views&color=0e75b6&style=flat" alt="mai-kamel" /> 
+  </a>
+  <a href="https://wa.me/+201557504902" target="_blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp - Abdullah Khaled" height="40" width="40" />
+  </a>
 </p>
 
 ---
