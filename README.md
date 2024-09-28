@@ -32,6 +32,22 @@
 
 <br>
 
+
+
+### 🎓 Education
+
+---
+
+#### 🏫 **Bachelor's Degree in Information Systems**
+
+- ![University Badge](https://img.shields.io/badge/Beni_Suef_University-0055A4?style=flat&logo=university&logoColor=white)
+- ![GPA Badge](https://img.shields.io/badge/GPA-3.1/4.0-brightgreen)
+- ![Duration Badge](https://img.shields.io/badge/Duration-October%202021%20–%20July%202025-yellow)
+
+---
+
+<br>
+
 # 💼 Experience
 
 ---
