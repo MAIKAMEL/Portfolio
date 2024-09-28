@@ -41,7 +41,7 @@
 #### 🏫 **Bachelor's Degree in Computer Engineering**
 
 - ![University Badge](https://img.shields.io/badge/Helwan_University-0055A4?style=flat&logo=university&logoColor=white)
-- ![GPA Badge](https://img.shields.io/badge/GPA-3.1/4.0-brightgreen)
+- ![GPA Badge](https://img.shields.io/badge/Cumulative_Grade-Very Good-brightgreen)
 - ![Duration Badge](https://img.shields.io/badge/Duration-October%202019%20–%20July%202023-yellow)
 
 ---
