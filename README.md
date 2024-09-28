@@ -61,7 +61,7 @@
 
 ## 🖥️ Digital Egypt Pioneers Initiative Intern  
 **(DEPI)** . *Hybird*  
-**Jun 2024 - Sep 2024**  (4 monthes)
+**Jun 2024 - Sep 2024**  (4 months)
 
 **Key Responsibilities:**
 - Gained hands-on experience in Machine Learning, MLOps tools like MLFlow, Hugging Face, and Azure AI services.
