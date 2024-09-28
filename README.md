@@ -31,12 +31,12 @@
 </p>
 
 <br>
+
 ---
 
 
 
 # 🏆 Achievements
----
 
 - **1st Place** in the **Made in Egypt (MIE)** competition, competing against **300 teams**.
 - **3rd Place** in the **Valeo Mentorship Program**, distinguished among **500 teams**.
@@ -47,7 +47,6 @@
 
 ### 🎓 Education
 
----
 
 #### 🏫 **Bachelor's Degree in Computer Engineering**
 
