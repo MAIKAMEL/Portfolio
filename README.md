@@ -72,6 +72,10 @@
   
 [![Statistics](https://img.shields.io/badge/Statistics-FF6347?style=for-the-badge)](https://en.wikipedia.org/wiki/Statistics) 
 [![Data Science](https://img.shields.io/badge/Data_Science-FF4500?style=for-the-badge)](https://en.wikipedia.org/wiki/Data_science) 
+[![Databases](https://img.shields.io/badge/Databases-FF4500?style=for-the-badge)](https://www.databases.com) 
+[![Data Visualization](https://img.shields.io/badge/Data_Visualization-1E90FF?style=for-the-badge)](https://en.wikipedia.org/wiki/Data_visualization)
+[![Data Cleaning](https://img.shields.io/badge/Data_Cleaning-FFD700?style=for-the-badge)](https://en.wikipedia.org/wiki/Data_cleansing)
+[![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-8A2BE2?style=for-the-badge)](https://en.wikipedia.org/wiki/Feature_engineering)
 [![Machine Learning](https://img.shields.io/badge/Machine_Learning-FFD700?style=for-the-badge)](https://en.wikipedia.org/wiki/Machine_learning) 
 [![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF4500?style=for-the-badge)](https://en.wikipedia.org/wiki/Deep_learning) 
 [![Computer Vision](https://img.shields.io/badge/Computer_Vision-8B008B?style=for-the-badge)](https://en.wikipedia.org/wiki/Computer_vision)
