@@ -60,7 +60,7 @@
 - Achieved 3rd place in the Valeo Mentorship Program competition out of 500 teams.
 
 ## 🖥️ Digital Egypt Pioneers Initiative Intern  
-**(DEPI)**  *Hybird*  
+**(DEPI)** . *Hybird*  
 **Jun 2024 - Sep 2024**  (4 monthes)
 
 **Key Responsibilities:**
