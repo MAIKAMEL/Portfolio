@@ -59,8 +59,8 @@
 - Developed an Advanced Driver Monitoring System integrating LSTM for Reckless Driving Detection and Dlib for Facial Recognition.
 - Achieved 3rd place in the Valeo Mentorship Program competition out of 500 teams.
 
-## 🖥️ AI and Machine Learning Engineer Intern  
-**Digital Egypt Pioneers Initiative (DEPI)**  *Hybird*  
+## 🖥️ Digital Egypt Pioneers Initiative Intern  
+** (DEPI)**  *Hybird*  
 **Jun 2024 - Sep 2024**  (4 monthes)
 
 **Key Responsibilities:**
