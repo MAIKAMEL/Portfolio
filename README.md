@@ -82,8 +82,9 @@
 **Graduation Project**  
 **Aug 2023 - Sep 2024**  
 **Key Responsibilities:**
-- Developed an Advanced Driver Monitoring System integrating **LSTM** for **Reckless Driving Detection** and **Dlib** for **Facial Recognition**.
-- Achieved **3rd place** in the Valeo Mentorship Program competition out of **500 teams**.
+- Developed an Advanced Driver Monitoring System integrating <span style="color:orange; font-weight:bold;">LSTM</span> for <span style="color:blue; font-weight:bold;">Reckless Driving Detection</span> and <span style="color:blue; font-weight:bold;">Dlib</span> for <span style="color:blue; font-weight:bold;">Facial Recognition</span>.
+- Achieved <span style="color:green; font-weight:bold;">3rd place</span> in the Valeo Mentorship Program competition out of <span style="color:red; font-weight:bold;">500 teams</span>.
+
 
 
 ## 🖥️ Machine Learning Intern  
