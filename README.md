@@ -133,7 +133,7 @@
 
 
 ### 🚀 Deployment & MLOps
-![Azure](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-2496ED?style=flat&logo=docker&logoColor=white)
 ![MLFlow](https://img.shields.io/badge/MLFlow-000000?style=flat&logo=mlflow&logoColor=white)
 
 
@@ -153,8 +153,6 @@
 - Experience working in **cross-functional teams**.
 - Strong **collaboration and communication** skills with both technical and non-technical stakeholders.
 
-### 💡 Creativity & Innovation
-- **Innovative thinker** with a passion for exploring new technologies and solving real-world problems through AI and data science.
 
 ### 📅 Time Management & Organization
 - Ability to manage multiple projects simultaneously, **prioritizing tasks** and meeting tight deadlines in fast-paced environments.
