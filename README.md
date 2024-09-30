@@ -131,11 +131,16 @@
 ![Data Analysis](https://img.shields.io/badge/Data_Analysis-FF69B4?style=flat&logo=microsoft-sql-server&logoColor=white)
 
 
-### 📈 Additional Skills
-![Network Protocols](https://img.shields.io/badge/Network_Protocols-150458?style=flat&logo=pandas&logoColor=white)
-![Algorithms](https://img.shields.io/badge/Algorithms-150458?style=flat&logo=pandas&logoColor=white)
-![Data Structures](https://img.shields.io/badge/Data_Structures-150458?style=flat&logo=pandas&logoColor=white)
-![Software Fundamentals](https://img.shields.io/badge/Software_Fundamentals-150458?style=flat&logo=pandas&logoColor=white)
+### 📈 Additional 
+![Network Protocols](https://img.shields.io/badge/Network_Protocols-FF69B4?style=flat&logo=microsoft-sql-server&logoColor=white)
+![Algorithms](https://img.shields.io/badge/Algorithms&_RNN-008080?style=flat&logo=microsoft-sql-server&logoColor=white)
+![Data Structures](https://img.shields.io/badge/Data_Structures-FF69B0?style=flat&logo=microsoft-sql-server&logoColor=white)
+![Software Fundamentals](https://img.shields.io/badge/Software_Fundamentals&_RNN-008090?style=flat&logo=microsoft-sql-server&logoColor=white)
+
+![](https://img.shields.io/badge/-150458?style=flat&logo=pandas&logoColor=white)
+![](https://img.shields.io/badge/-150458?style=flat&logo=pandas&logoColor=white)
+![](https://img.shields.io/badge/-150458?style=flat&logo=pandas&logoColor=white)
+![](https://img.shields.io/badge/-150458?style=flat&logo=pandas&logoColor=white)
 
 ---
 
