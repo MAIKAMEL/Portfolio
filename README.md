@@ -104,27 +104,36 @@
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![Classification Algorthims](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Regression Algorthims](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Time-series data](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![CNN](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![LSTM & RNN](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Regression Algorthims](https://img.shields.io/badge/Classification_Algorthims-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Time-series data](https://img.shields.io/badge/Time-serie_data-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![CNN](https://img.shields.io/badge/CNN-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![LSTM & RNN](https://img.shields.io/badge/LSTM_&_RNN-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 
 
 ### 📊 Data Science & Analysis
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Matplot](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-150458?style=flat&logo=pandas&logoColor=white)
+![Matplot](https://img.shields.io/badge/Matplot-150458?style=flat&logo=pandas&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=microsoft-sql-server&logoColor=white)
-![Power BI](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-E97627?style=flat&logo=tableau&logoColor=white)
 
 ### 👁️ Computer Vision
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![Dlib](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![Image Processing](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![Object Detection](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![Facial Recognition](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![Dlib](https://img.shields.io/badge/Dlib-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![Image Processing](https://img.shields.io/badge/Image_Processing-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![Object Detection](https://img.shields.io/badge/Object_Detection-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![Facial Recognition](https://img.shields.io/badge/Facial_Recognition-5C3EE8?style=flat&logo=opencv&logoColor=white)
 
+### 📈 Data Management
+![Statistical Analysis](https://img.shields.io/badge/Statistical_Analysis-150458?style=flat&logo=pandas&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-150458?style=flat&logo=pandas&logoColor=white)
+
+### 📈 Additional Skills
+![Network Protocols](https://img.shields.io/badge/Network_Protocols-150458?style=flat&logo=pandas&logoColor=white)
+![Algorithms](https://img.shields.io/badge/Algorithms-150458?style=flat&logo=pandas&logoColor=white)
+![Data Structures](https://img.shields.io/badge/Data_Structures-150458?style=flat&logo=pandas&logoColor=white)
+![Software Fundamentals](https://img.shields.io/badge/Software_Fundamentals-150458?style=flat&logo=pandas&logoColor=white)
 
 ---
 
