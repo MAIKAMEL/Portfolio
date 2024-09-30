@@ -99,23 +99,30 @@
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 
-### 🤖 Machine Learning & Deep Learning
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
+### 🤖 Machine Learning & NLP
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib_&_Seaborn-150458?style=flat&logo=graphql&logoColor=white)
+![SpaCy](https://img.shields.io/badge/SpaCy-000000?style=flat&logo=spacy&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-339933?style=flat&logo=nltk&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-000000?style=flat&logo=huggingface&logoColor=white)
 ![Classification Algorithms](https://img.shields.io/badge/Classification_Algorithms-007D9C?style=flat&logo=microsoft-sql-server&logoColor=white)
 ![Regression Algorithms](https://img.shields.io/badge/Regression_Algorithms-32CD32?style=flat&logo=microsoft-sql-server&logoColor=white)
+
+
+### 🧠 Deep Learning & GenAI
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Time-series Data](https://img.shields.io/badge/Time_series_data-9932CC?style=flat&logo=microsoft-sql-server&logoColor=white)
 ![CNN](https://img.shields.io/badge/CNN-FF69B4?style=flat&logo=microsoft-sql-server&logoColor=white)
 ![LSTM & RNN](https://img.shields.io/badge/LSTM_&_RNN-008080?style=flat&logo=microsoft-sql-server&logoColor=white)
 
 
 ### 📊 Data Science & Analysis
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib_&_Seaborn-150458?style=flat&logo=graphql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=microsoft-sql-server&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-E97627?style=flat&logo=tableau&logoColor=white)
+![Statistical Analysis](https://img.shields.io/badge/Statistical_Analysis-007D9C?style=flat&logo=microsoft-sql-server&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-FF69B4?style=flat&logo=microsoft-sql-server&logoColor=white)
 
 ### 👁️ Computer Vision
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
@@ -125,18 +132,39 @@
 ![Facial Recognition](https://img.shields.io/badge/Facial_Recognition-32CD32?style=flat&logo=microsoft-sql-server&logoColor=white)
 
 
-### 📈 Data Management
-![Statistical Analysis](https://img.shields.io/badge/Statistical_Analysis-007D9C?style=flat&logo=microsoft-sql-server&logoColor=white)
-![Data Analysis](https://img.shields.io/badge/Data_Analysis-FF69B4?style=flat&logo=microsoft-sql-server&logoColor=white)
+### 🚀 Deployment & MLOps
+![Azure](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![MLFlow](https://img.shields.io/badge/MLFlow-000000?style=flat&logo=mlflow&logoColor=white)
 
 
-### ![Additional](https://img.shields.io/badge/Additional%20%2B-007ACC?style=flat&logo=plus&logoColor=white)
+
+### 📈 Additional 
 ![Network Protocols](https://img.shields.io/badge/Network_Protocols-9932CC?style=flat&logo=microsoft-sql-server&logoColor=white)
 ![Algorithms](https://img.shields.io/badge/Algorithms&_RNN-008080?style=flat&logo=microsoft-sql-server&logoColor=white)
 ![Data Structures](https://img.shields.io/badge/Data_Structures-FF6F00?style=flat&logo=microsoft-sql-server&logoColor=white)
 ![Software Fundamentals](https://img.shields.io/badge/Software_Fundamentals&_RNN-013243?style=flat&logo=microsoft-sql-server&logoColor=white)
 
----
+## 🌟 Soft Skills
+
+### 🎯 Problem-Solving & Critical Thinking
+- Proficient in **breaking down complex problems** and designing efficient, scalable solutions.
+
+### 🧑‍🤝‍🧑 Teamwork & Collaboration
+- Experience working in **cross-functional teams**.
+- Strong **collaboration and communication** skills with both technical and non-technical stakeholders.
+
+### 💡 Creativity & Innovation
+- **Innovative thinker** with a passion for exploring new technologies and solving real-world problems through AI and data science.
+
+### 📅 Time Management & Organization
+- Ability to manage multiple projects simultaneously, **prioritizing tasks** and meeting tight deadlines in fast-paced environments.
+
+### 🎙️ Communication & Presentation
+- Skilled at conveying technical insights to diverse audiences, making complex data **accessible and actionable**.
+- Proficient in **presenting data-driven findings** clearly and persuasively.
+
+### 📈 Continuous Learning
+- A mindset of **continuous learning** with an interest in staying updated with the latest trends in AI, machine learning, and data science.
 
 <br>
 
