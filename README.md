@@ -134,8 +134,8 @@
 ### 📈 Additional 
 ![Network Protocols](https://img.shields.io/badge/Network_Protocols-9932CC?style=flat&logo=microsoft-sql-server&logoColor=white)
 ![Algorithms](https://img.shields.io/badge/Algorithms&_RNN-008080?style=flat&logo=microsoft-sql-server&logoColor=white)
-![Data Structures](https://img.shields.io/badge/Data_Structures-FF69B4?style=flat&logo=microsoft-sql-server&logoColor=white)
-![Software Fundamentals](https://img.shields.io/badge/Software_Fundamentals&_RNN-32CD32?style=flat&logo=microsoft-sql-server&logoColor=white)
+![Data Structures](https://img.shields.io/badge/Data_Structures-FF6F00?style=flat&logo=microsoft-sql-server&logoColor=white)
+![Software Fundamentals](https://img.shields.io/badge/Software_Fundamentals&_RNN-013243?style=flat&logo=microsoft-sql-server&logoColor=white)
 
 ---
 
