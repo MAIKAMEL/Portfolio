@@ -104,10 +104,10 @@
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![Classification Algorithms](https://img.shields.io/badge/Classification_Algorithms-007D9C?style=flat&logo=microsoft-sql-server&logoColor=white)
-![Regression Algorthims](https://img.shields.io/badge/Regression_Algorthims-4479A1?style=flat&logo=microsoft-sql-server&logoColor=white)
-![Time-series data](https://img.shields.io/badge/Time_series_data-4479A1?style=flat&logo=microsoft-sql-server&logoColor=white)
-![CNN](https://img.shields.io/badge/CNN-4479A1?style=flat&logo=microsoft-sql-server&logoColor=white)
-![LSTM & RNN](https://img.shields.io/badge/LSTM_&_RNN-4479A1?style=flat&logo=microsoft-sql-server&logoColor=white)
+![Regression Algorithms](https://img.shields.io/badge/Regression_Algorithms-32CD32?style=flat&logo=microsoft-sql-server&logoColor=white)
+![Time-series Data](https://img.shields.io/badge/Time_series_data-9932CC?style=flat&logo=microsoft-sql-server&logoColor=white)
+![CNN](https://img.shields.io/badge/CNN-FF69B4?style=flat&logo=microsoft-sql-server&logoColor=white)
+![LSTM & RNN](https://img.shields.io/badge/LSTM_&_RNN-008080?style=flat&logo=microsoft-sql-server&logoColor=white)
 
 
 ### 📊 Data Science & Analysis
