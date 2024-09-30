@@ -130,7 +130,7 @@
 ![Data Analysis](https://img.shields.io/badge/Data_Analysis-FF69B4?style=flat&logo=microsoft-sql-server&logoColor=white)
 
 
-### 📈 Additional 
+### ![Additional](https://img.shields.io/badge/Additional%20%2B-007ACC?style=flat&logo=plus&logoColor=white)
 ![Network Protocols](https://img.shields.io/badge/Network_Protocols-9932CC?style=flat&logo=microsoft-sql-server&logoColor=white)
 ![Algorithms](https://img.shields.io/badge/Algorithms&_RNN-008080?style=flat&logo=microsoft-sql-server&logoColor=white)
 ![Data Structures](https://img.shields.io/badge/Data_Structures-FF6F00?style=flat&logo=microsoft-sql-server&logoColor=white)
