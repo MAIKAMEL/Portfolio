@@ -120,14 +120,16 @@
 
 ### 👁️ Computer Vision
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![Dlib](https://img.shields.io/badge/Dlib-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![Image Processing](https://img.shields.io/badge/Image_Processing-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![Object Detection](https://img.shields.io/badge/Object_Detection-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![Facial Recognition](https://img.shields.io/badge/Facial_Recognition-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![Dlib](https://img.shields.io/badge/Dlib-4479A1?style=flat&logo=microsoft-sql-server&logoColor=white)
+![Image Processing](https://img.shields.io/badge/Image_Processing-FF0000?style=flat&logo=microsoft-sql-server&logoColor=white)
+![Object Detection](https://img.shields.io/badge/Object_Detection-FFD700?style=flat&logo=microsoft-sql-server&logoColor=white)
+![Facial Recognitio](https://img.shields.io/badge/-32CD32?style=flat&logo=microsoft-sql-server&logoColor=white)
+
 
 ### 📈 Data Management
-![Statistical Analysis](https://img.shields.io/badge/Statistical_Analysis-150458?style=flat&logo=pandas&logoColor=white)
-![Data Analysis](https://img.shields.io/badge/Data_Analysis-150458?style=flat&logo=pandas&logoColor=white)
+![Statistical Analysis](https://img.shields.io/badge/Statistical_Analysis-007D9C?style=flat&logo=microsoft-sql-server&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-FF69B4?style=flat&logo=microsoft-sql-server&logoColor=white)
+
 
 ### 📈 Additional Skills
 ![Network Protocols](https://img.shields.io/badge/Network_Protocols-150458?style=flat&logo=pandas&logoColor=white)
