@@ -113,8 +113,7 @@
 ### 📊 Data Science & Analysis
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-150458?style=flat&logo=chart-bar&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-150458?style=flat&logo=graphql&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib_&_Seaborn-150458?style=flat&logo=graphql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=microsoft-sql-server&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-E97627?style=flat&logo=tableau&logoColor=white)
 
