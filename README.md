@@ -55,17 +55,12 @@
 
 ---
 
-## 🖥️ Digital Egypt Pioneers Initiative Intern  
-**(DEPI)** . *Hybrid*  
+## 🖥️ Digital Egypt Pioneers Initiative Intern  (DEPI)
+**Microsoft Machine Learning** . *Hybrid*  
 **Jun 2024 - Sep 2024**  (4 months)
 
 **Key Responsibilities:**
-- Gained hands-on experience in Machine Learning, MLOps tools like MLFlow, Hugging Face, and Azure AI services.
-- Built and experimented with Generative Adversarial Networks (GANs).
-- Worked on Natural Language Processing (NLP) and Prompt Engineering.
-- Completed projects covering Statistics and Linear Algebra foundations.
-- Developed proficiency in Machine Learning and Data Science using Python.
-- Acquired certifications in Azure AI Fundamentals and Azure AI Engineer Associate.
+- Engaged in the Applied Machine Learning Lab, implementing machine learning methodologies in real-world projects.
   
 [![Statistical Analysis](https://img.shields.io/badge/Statistics-FF6347?style=for-the-badge)](https://en.wikipedia.org/wiki/Statistics) 
 [![Data Science](https://img.shields.io/badge/Data_Science-FF4500?style=for-the-badge)](https://en.wikipedia.org/wiki/Data_science) 
