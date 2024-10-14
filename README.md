@@ -188,8 +188,8 @@
 ![SpaCy](https://img.shields.io/badge/SpaCy-000000?style=flat&logo=spacy&logoColor=white)
 ![NLTK](https://img.shields.io/badge/NLTK-339933?style=flat&logo=nltk&logoColor=white)
 ![Logidtic Regression](https://img.shields.io/badge/Logidtic_Regression-007D9C?style=flat&logo=microsoft-sql-server&logoColor=white)
-[GAN](https://img.shields.io/badge/GAN-4479A1?style=flat&logo=xgboost&logoColor=white)  
-[Stremlit](https://img.shields.io/badge/Stremlit-FF6F00?style=flat&logo=xgboost&logoColor=white)  
+![GANs](https://img.shields.io/badge/GANs-9932CC?style=flat&logo=microsoft-sql-server&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF69B4?style=flat&logo=microsoft-sql-server&logoColor=white) 
 ![MLFlow](https://img.shields.io/badge/MLFlow-000000?style=flat&logo=mlflow&logoColor=white)
 
 ---
