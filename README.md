@@ -180,10 +180,16 @@
 🎯 prevent financial losses and protect customer trust by accurately detecting and preventing fraud in real-time. 
 
 **Tools & Technologies:**  
+![VS Code](https://img.shields.io/badge/VS_Code-F37626?style=flat&logo=jupyter&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-315796?style=flat&logo=matplotlib&logoColor=white) 
-![VS Code](https://img.shields.io/badge/VS_Code-F37626?style=flat&logo=jupyter&logoColor=white)
-
+[NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![SpaCy](https://img.shields.io/badge/SpaCy-000000?style=flat&logo=spacy&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-339933?style=flat&logo=nltk&logoColor=white)
+[Logidtic Regression](https://img.shields.io/badge/Logidtic_Regression-EC4E20?style=flat&logo=xgboost&logoColor=white)  
+[GAN](https://img.shields.io/badge/GAN-4479A1?style=flat&logo=xgboost&logoColor=white)  
+[Stremlit](https://img.shields.io/badge/Stremlit-FF6F00?style=flat&logo=xgboost&logoColor=white)  
+![MLFlow](https://img.shields.io/badge/MLFlow-000000?style=flat&logo=mlflow&logoColor=white)
 
 ---
