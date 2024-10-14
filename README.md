@@ -170,12 +170,14 @@
 
 ---
 
-## 🚗 Fruad Detection in financial transaction
+## 🔍💲 Fraud Detection in Financial Transactions
 **Description:**  
-🚀 
+🚀 The rise of digital transactions has led to increased fraud, making detection critical for protecting customer assets and trust in financial institutions. Machine learning models improve fraud detection by analyzing large data in real-time, adapting to new patterns, and reducing false positives. Advanced systems are essential for secure financial operations.
+
+![Fraud Detection Image](https://github.com/MAIKAMEL/images/blob/main/home%20page.png)
 
 **Business Goal:**  
-🎯 
+🎯 prevent financial losses and protect customer trust by accurately detecting and preventing fraud in real-time. 
 
 **Tools & Technologies:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
