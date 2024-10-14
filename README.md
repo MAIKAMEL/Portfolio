@@ -33,7 +33,7 @@
 
 ---
 
-# 🏆 Achievements
+# 🏆 Accomplishments
 - **1st Place** in the **Made in Egypt (MIE)** competition, competing against **300 teams**.
 - **3rd Place** in the **Valeo Mentorship Program**, distinguished among **500 teams**.
 - **8th Place** at the **University's Engineering Exhibition** for an innovative graduation project focused on advanced driver monitoring systems.
