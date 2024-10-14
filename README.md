@@ -170,7 +170,7 @@
 
 ---
 
-## 🚗 Enhanced Drive Guard (EDG)  
+## 🚗 Fruad Detection in financial transaction
 **Description:**  
 🚀 
 
@@ -178,7 +178,10 @@
 🎯 
 
 **Tools & Technologies:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-315796?style=flat&logo=matplotlib&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) 
+![Matplotlib](https://img.shields.io/badge/Matplotlib-315796?style=flat&logo=matplotlib&logoColor=white) 
+![VS Code](https://img.shields.io/badge/VS_Code-F37626?style=flat&logo=jupyter&logoColor=white)
 
 
 ---
